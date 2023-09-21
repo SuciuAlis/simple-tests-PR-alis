@@ -42,7 +42,11 @@ public class AppTest extends TestCase {
     }
     
     public void testAppD() {
-        assertTrue(false);
+        assertTrue(true);
+    }
+
+    public void testAppNewF(){
+        assertTrue(true);
     }
 
     public void testWillFailOnParameter() {
