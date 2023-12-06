@@ -49,7 +49,7 @@ public class AppTest extends TestCase {
     }
 
     public void testAppNewF(){
-        assertTrue(true);
+        assertTrue(false);
     }
 
     public void testWillFailOnParameter() {
