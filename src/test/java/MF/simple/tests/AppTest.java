@@ -41,6 +41,10 @@ public class AppTest extends TestCase {
         assertTrue(true);
     }
 
+    public void testApp100CC() {
+        assertTrue(true);
+    }
+
     public void testWillFailOnParameter() {
         String value = System.getProperty("fail");
         if (value != null && value.toLowerCase().equals("true")) {
