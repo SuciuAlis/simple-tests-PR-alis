@@ -52,6 +52,10 @@ public class AppTest extends TestCase {
     public void testAppNewF(){
         assertTrue(true);
     }
+    
+    public void testAppNewG(){
+        assertTrue(true);
+    }
 
     public void testWillFailOnParameter() {
         String value = System.getProperty("fail");
