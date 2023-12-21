@@ -54,11 +54,11 @@ public class AppTest extends TestCase {
     }
     
     public void testAppNewG(){
-        assertTrue(true);
+        assertTrue(false);
     }
     
     public void testAppNewH(){
-        assertTrue(false);
+        assertTrue(true);
     }
 
     public void testWillFailOnParameter() {
