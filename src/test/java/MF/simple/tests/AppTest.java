@@ -62,7 +62,7 @@ public class AppTest extends TestCase {
     }
     
     public void testMada(){
-        assertTrue(true);
+        assertTrue(false);
     }
 
     public void testWillFailOnParameter() {
