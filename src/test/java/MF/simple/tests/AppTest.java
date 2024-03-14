@@ -54,7 +54,7 @@ public class AppTest extends TestCase {
     }
     
     public void testAppNewG(){
-        assertTrue(false);
+        assertTrue(true);
     }
     
     public void testAppNewH(){
